@@ -20,8 +20,6 @@ Comme un détective scrutant un fichier de code, voici les catégories du Discor
 
 -   **Bureaux** 🏢:
     -   Ici, nos formateurs ont des bureaux avec vue sur la mer, l'océan ou même la montagne 🏞️.
--   **Support OS** 🖥️:
-    -   Comme une trousse à outils pour les geeks, c'est là où vous obtenez de l'aide pour MACOS, Linux ou Windows. Pas besoin de pilotes pour cette assistance !
 -   **Mairie** 🏛️:
     -   C'est là que les annonces importantes sont faites pour tout le monde. Imaginez-le comme une assemblée générale, mais avec moins de cravates.
 -   **Open Space** 🌌:
