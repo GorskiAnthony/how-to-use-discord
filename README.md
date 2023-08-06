@@ -1,0 +1,50 @@
+# Discord, notre campus à nous ! 🏫
+
+## 🤔 Comment fonctionne discord ?
+
+![présentation du serveur sans rôle](assets/1.png)
+
+Lorsque vous pénétrez pour la première fois dans notre sanctuaire Discord, vous pourriez vous sentir comme dans une zone déserte de code... enfin, pour l'instant 😅 ! Pas de panique, c'est tout à fait normal. La première quête consiste à répondre à `MEE6` en cochant la case verte (✅). Une fois cela accompli, vous devez choisir votre guide 🎮.
+
+## 💻 L'interface
+
+![présentation de l'interface](assets/2.png)
+
+Bravo, vous avez débloqué un nouveau niveau ! Vous avez maintenant accès aux canaux (comme des salles secrètes) de notre monde Discord. L'image ci-dessus est comme la carte au trésor, mais suivez-moi pour une visite digne d'un développeur cherchant des bugs !
+
+## 🔍 Les détails
+
+![Toutes les catégories sont affichées](assets/3.png)
+
+Comme un détective scrutant un fichier de code, voici les catégories du Discord.
+
+-   **Bureaux** 🏢:
+    -   Ici, nos formateurs ont des bureaux avec vue sur la mer, l'océan ou même la montagne 🏞️.
+-   **Support OS** 🖥️:
+    -   Comme une trousse à outils pour les geeks, c'est là où vous obtenez de l'aide pour MACOS, Linux ou Windows. Pas besoin de pilotes pour cette assistance !
+-   **Mairie** 🏛️:
+    -   C'est là que les annonces importantes sont faites pour tout le monde. Imaginez-le comme une assemblée générale, mais avec moins de cravates.
+-   **Open Space** 🌌:
+    -   C'est notre espace vocal détente. Il y a même un coin "AFK" pour ceux qui s'évaporent temporairement. Et pour les aventuriers, "Créer un salon vocal" vous emmène dans une quête vocale éphémère !
+-   **Support** 🆘:
+    -   Ici, c'est où les codeurs super-héros se rassemblent. L'entraide, c'est notre super-pouvoir.
+-   **The place to be** 🌟:
+    -   Imaginez-le comme la taverne des développeurs : mèmes, musique, discussions sur le sport, les animes et plus encore.
+
+## 💬 Les salons
+
+![description des salons](assets/5.png)
+
+Regardez ces petits badges à côté des canaux, ce ne sont pas que des icônes, ils ont une signification !
+
+-   #️⃣
+    -   Le dièse (#) indique un salon de discussion texte classique. Comme un défilement infini de code, les messages apparaissent en cascade, comme des lignes de code bien indentées.
+-   🔊
+    -   Un microphone, le saint graal des salons vocaux ! Parlez, discutez, partagez - pas de limite, c'est la fête de la voix.
+-   💬
+    -   Une bulle de discussion, un peu comme un forum. Ici, vous organisez vos discussions en dossiers bien rangés. Un peu comme ranger son code, mais sans le stress.
+
+## 📝 Votre mission, si vous l'acceptez
+
+N'oubliez pas : Discord n'est pas une option, c'est votre nouveau monde ! Pendant les heures de formation, vous DEVEZ être sur Discord, dans un salon vocal (que ce soit le vôtre ou un déjà existant). Si un formateur vous appelle et que vous ne répondez pas, préparez-vous à être marqué absent, comme si vous aviez planté votre tente dans un monde virtuel.
+Alors, soyez là, soyez intrépide et plongez dans l'univers numérique du développement comme un véritable héro du code ! 🦸‍♂️🚀
