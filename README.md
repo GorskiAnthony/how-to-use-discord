@@ -42,6 +42,17 @@ Regardez ces petits badges à côté des canaux, ce ne sont pas que des icônes,
 -   💬
     -   Une bulle de discussion, un peu comme un forum. Ici, vous organisez vos discussions en dossiers bien rangés. Un peu comme ranger son code, mais sans le stress.
 
+## 📞 Allô, c'est pour un appel
+
+Les salons vocaux, comme son nom l'indique, sont des salons où vous pouvez parler. Mais comment ça marche ? C'est simple, il suffit de cliquer sur le salon vocal de votre choix et vous serez automatiquement connecté. Vous pouvez même créer votre propre salon vocal en cliquant sur le bouton "Créer un salon vocal" en haut de la liste des salons vocaux.
+Celui-ci créera un salon vocal temporaire, qui disparaîtra lorsque vous le quitterez. C'est comme un salon vocal jetable, mais sans le plastique.
+
+![création d'un salon vocal](assets/6.png)
+
+-   Vous pouvez raccrocher en cliquant sur le bouton à droite avec le téléphone et la croix.
+-   Vous pouvez couper votre micro en cliquant sur le bouton du microphone.
+-   Si vous cliquez sur le casque, vous n'entendrez plus rien, et on ne vous entendra plus.
+
 ## 📝 Votre mission, si vous l'acceptez
 
 N'oubliez pas : Discord n'est pas une option, c'est votre nouveau monde ! Pendant les heures de formation, vous DEVEZ être sur Discord, dans un salon vocal (que ce soit le vôtre ou un déjà existant). Si un formateur vous appelle et que vous ne répondez pas, préparez-vous à être marqué absent, comme si vous aviez planté votre tente dans un monde virtuel.
