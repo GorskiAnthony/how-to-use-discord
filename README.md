@@ -1,16 +1,14 @@
-# Discord, notre campus à nous ! 🏫
+# Discord, notre campus à nous, les remotes ! 🏫
 
 ## 🤔 Comment fonctionne discord ?
 
 ![présentation du serveur sans rôle](assets/1.png)
 
-Lorsque vous pénétrez pour la première fois dans notre sanctuaire Discord, vous pourriez vous sentir comme dans une zone déserte de code... enfin, pour l'instant 😅 ! Pas de panique, c'est tout à fait normal. La première quête consiste à répondre à `MEE6` en cochant la case verte (✅). Une fois cela accompli, vous devez choisir votre guide 🎮.
+Lorsque vous pénétrez pour la première fois dans notre sanctuaire Discord, vous pourriez vous sentir comme dans une zone déserte de code... enfin, pour l'instant 😅 ! Pas de panique, c'est tout à fait normal. Une fois connecté, vous devez sélectionner votre formateur 🧑‍🏫.
 
 ## 💻 L'interface
 
-![présentation de l'interface](assets/2.png)
-
-Bravo, vous avez débloqué un nouveau niveau ! Vous avez maintenant accès aux canaux (comme des salles secrètes) de notre monde Discord. L'image ci-dessus est comme la carte au trésor, mais suivez-moi pour une visite digne d'un développeur cherchant des bugs !
+Vous avez maintenant accès aux canaux (comme des salles secrètes) de notre monde Discord, mais suivez-moi pour une visite digne d'un développeur cherchant des bugs !
 
 ## 🔍 Les détails
 
@@ -49,7 +47,7 @@ Celui-ci créera un salon vocal temporaire, qui disparaîtra lorsque vous le qui
 
 ![création d'un salon vocal](assets/6.png)
 
--   Vous pouvez raccrocher en cliquant sur le bouton à droite avec le téléphone et la croix.
+-   Vous pouvez raccrocher en cliquant sur le bouton à droite avec le téléphone.
 -   Vous pouvez couper votre micro en cliquant sur le bouton du microphone.
 -   Si vous cliquez sur le casque, vous n'entendrez plus rien, et on ne vous entendra plus.
 
