@@ -53,6 +53,15 @@ Celui-ci créera un salon vocal temporaire, qui disparaîtra lorsque vous le qui
 
 ⚠️ Quand vous parlez et que personne vous répond, ne soyez pas vexé, juste, regardé si par hasard vous n'avez pas coupé votre micro & casque. ⚠️
 
+## 👀 Vos noms
+
+Concernant le nom sur discord, il y a une syntaxe à respecter.
+
+- Prénom + Nom
+  - ex: `John Doe`
+
+![exemple de nom](assets/change_name.png)
+
 ## 📝 Votre mission, si vous l'acceptez
 
 N'oubliez pas : Discord n'est pas une option, c'est votre nouveau monde ! Pendant les heures de formation, vous DEVEZ être sur Discord, dans un salon vocal (que ce soit le vôtre ou un déjà existant). Si un formateur vous appelle et que vous ne répondez pas, préparez-vous à être marqué absent, comme si vous aviez planté votre tente dans un monde virtuel.
