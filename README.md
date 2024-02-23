@@ -16,8 +16,8 @@ Vous avez maintenant accès aux canaux (comme des salles secrètes) de notre mon
 
 Comme un détective scrutant un fichier de code, voici les catégories du Discord.
 
--   **Bureaux** 🏢:
-    -   Ici, nos formateurs ont des bureaux avec vue sur la mer, l'océan ou même la montagne 🏞️.
+-   **Bureaux RC** 🏢:
+    -   Ici, le bureau de votre responsable de campus.
 -   **Mairie** 🏛️:
     -   C'est là que les annonces importantes sont faites pour tout le monde. Imaginez-le comme une assemblée générale, mais avec moins de cravates.
 -   **Open Space** 🌌:
