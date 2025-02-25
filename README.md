@@ -12,12 +12,10 @@ Vous avez maintenant accès aux canaux (comme des salles secrètes) de notre mon
 
 ## 🔍 Les détails
 
-![Toutes les catégories sont affichées](assets/3.png)
+![Toutes les catégories sont affichées](assets/2.png)
 
 Comme un détective scrutant un fichier de code, voici les catégories du Discord.
 
--   **Bureaux RC** 🏢:
-    -   Ici, le bureau de votre responsable de campus.
 -   **Mairie** 🏛️:
     -   C'est là que les annonces importantes sont faites pour tout le monde. Imaginez-le comme une assemblée générale, mais avec moins de cravates.
 -   **Open Space** 🌌:
@@ -57,8 +55,8 @@ Celui-ci créera un salon vocal temporaire, qui disparaîtra lorsque vous le qui
 
 Concernant le nom sur discord, il y a une syntaxe à respecter.
 
-- Prénom + Nom
-  - ex: `John Doe`
+-   Prénom + Nom
+    -   ex: `John Doe`
 
 ![exemple de nom](assets/change_name.png)
 
